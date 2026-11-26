@@ -18,7 +18,7 @@ Analyzed Supermarket Sales Dataset (1000 rows) from Kaggle using SQL to find sal
 3. Sales by Payment Method
 4. Sales by Customer Type & Gender
 5. Top 5 Best Selling Product Lines
-6. 6. Monthly Sales Trend with Window Function
+6. Monthly Sales Trend with Window Function
 7. Ranking Product Lines using CTE & RANK()
 
 ## 💡 Key Insights
